@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389642138627",
+    "project_id": "ensachat-11141",
+    "storage_bucket": "ensachat-11141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389642138627:android:727aaa223ef998dda3ca36",
+        "android_client_info": {
+          "package_name": "com.coolscripts.wasse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYuq3Rilecw3NHhXBs_SG5MC7U1AbJ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

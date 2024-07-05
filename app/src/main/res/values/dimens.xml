@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="password_icon_width">40dp</dimen>
+    <dimen name="password_icon_height">40dp</dimen>
+    <dimen name="hide_icon_size">24dp</dimen>
+    <dimen name="margin_bottom">16dp</dimen>
+</resources>

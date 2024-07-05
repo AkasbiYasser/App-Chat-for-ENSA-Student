@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Wasse" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/blue5</item>
+
+    </style>
+
+    <style name="Theme.Wasse" parent="Base.Theme.Wasse" />
+</resources>
